@@ -1,0 +1,9 @@
+Took a while to get the gist of it but what ive learned is the internet is a collective of infestructe connecting netowrks to another one
+via ip(internet protocal) addresses and mac(Media Access Control) address. the MAC address is the "fingerprint" (permanent/unique) and 
+the IP address is the "name" (changeable/permeable). that IP addresses can change from device to device but cannot be active simultaneously 
+more than once within the same network. I've also gotten better a little with the interactive menu it has allowed my first hack (not really 
+hacking a private network server on a web browser that just allws me to spoof a connection between 2 different devices in a public server )
+What i ended up doing was first changing my mac address to follow anothers in order to gain internet access.I've learned about ipconfig 
+and that isp (Internet Service Provider) is the way you the plethora of other networks online using the infastructre created by your ISP and corperations that use it as a way to gain access but 
+a way to charge inorder to make profit with the support max of IP4 being up wards of 4billion the additon of IP6 has allow for a trillion 
+increase but also faster and more protections 
